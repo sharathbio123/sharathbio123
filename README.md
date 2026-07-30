@@ -62,25 +62,36 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🧰 I'm Working With
+## 🧰 Tools & Technologies
 
 <div align="center">
 
 <!-- Icons live in assets/logos/ — swap a file to change an icon.
      Table cells are used because GitHub renders README images as display:block. -->
 <table>
+
+<!-- Languages -->
+<tr>
+<td colspan="7" align="center"><b>🐍 Languages</b></td>
+</tr>
+
 <tr>
 <td align="center"><img src="assets/logos/python.svg" width="44" height="44" alt="Python" title="Python" /></td>
 <td align="center"><img src="assets/logos/RStudio.svg" width="44" height="44" alt="R" title="R" /></td> 
+<td align="center"><img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /></td>
+<td align="center"><img src="assets/logos/html.svg" width="44" height="44" alt="HTML" title="HTML" /></td>
+
+
+
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
 <td align="center"><img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" /></td>
-<td align="center"><img src="assets/logos/html.svg" width="44" height="44" alt="HTML" title="HTML" /></td>
+
 <td align="center"><img src="assets/logos/linux.svg" width="44" height="44" alt="Linux" title="Linux" /></td>
 <td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 </tr>
 <tr>
 <td align="center"><img src="assets/logos/node.svg" width="44" height="44" alt="Node.js" title="Node.js" /></td>
-<td align="center"><img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /></td>
+
 <td align="center"><img src="assets/logos/react.svg" width="44" height="44" alt="React" title="React" /></td>
 <td align="center"><img src="assets/logos/FastAPI.svg" width="44" height="44" alt="FastAPI" title="FastAPI" /></td>
 <td align="center"><img src="assets/logos/docker.svg" width="44" height="44" alt="Docker" title="Docker" /></td>
