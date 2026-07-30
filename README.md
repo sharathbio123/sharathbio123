@@ -117,7 +117,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 <td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" width="36" height="44" alt="PyTorch" title="PyTorch" /></td>
 </tr>
-</table>
+
 
 </div>
 
