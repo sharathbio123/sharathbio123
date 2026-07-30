@@ -72,7 +72,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <tr>
 <td colspan="8" align="center">
-<b>🧪 Scientific Tools</b>
+<b>🧬 Scientific Tools</b>
 </td>
 </tr>
 
@@ -81,27 +81,37 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
 <td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
 <td align="center"><img src="assets/logos/MDanalysis.png" width="44" height="44" alt="MDAnalysis" title="MDAnalysis" /></td>
+<td align="center"><img src="assets/logos/PyMOL_logo.svg" width="44" height="44" alt="PyMOL" title="PyMOL" /></td>
+<td align="center"><img src="assets/logos/ChimeraX.svg" width="44" height="44" alt="ChimeraX" title="ChimeraX" /></td>
+<td align="center"><img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD" title="VMD" /></td>
+<td align="center"><img src="assets/logos/ADT.png" width="44" height="44" alt="ADT" title="ADT" /></td>
+</td>
 
+</tr>
 
+<tr>
+<td colspan="8" align="center">
+<b>🚀 Technologies</b>
+</td>
+</tr>
+
+<tr>
 <td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
 <td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
 <td align="center"><img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></td>
 <td align="center"><img src="assets/logos/html.svg" width="42" height="42" alt="HTML" title="HTML" /></td>
-
-
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
 <td align="center"><img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" /></td>
-
 <td align="center"><img src="assets/logos/linux.svg" width="44" height="44" alt="Linux" title="Linux" /></td>
-<td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 </tr>
+
 <tr>
 <td align="center"><img src="assets/logos/node.svg" width="44" height="44" alt="Node.js" title="Node.js" /></td>
-
 <td align="center"><img src="assets/logos/react.svg" width="44" height="44" alt="React" title="React" /></td>
 <td align="center"><img src="assets/logos/FastAPI.svg" width="44" height="44" alt="FastAPI" title="FastAPI" /></td>
 <td align="center"><img src="assets/logos/docker.svg" width="44" height="44" alt="Docker" title="Docker" /></td>
 <td align="center"><img src="assets/logos/conda.svg" width="44" height="44" alt="Conda" title="Conda" /></td>
+<td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 <td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" width="36" height="44" alt="PyTorch" title="PyTorch" /></td>
 </tr>
 </table>
