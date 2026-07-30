@@ -81,6 +81,8 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /></td>
 <td align="center"><img src="assets/logos/html.svg" width="44" height="44" alt="HTML" title="HTML" /></td>
 
+<td colspan="3"></td>
+</tr>
 
 
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
