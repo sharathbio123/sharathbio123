@@ -72,11 +72,11 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <tr>
 <td colspan="8" align="center">
 <b>🧬 Scientific Tools</b>
-</td>
-  
+</td>  
 </tr>
 
 <tr>
+  
 <table>
 <td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
@@ -87,17 +87,17 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD" title="VMD" /></td>
 <td align="center"><img src="assets/logos/ADT.png" width="44" height="44" alt="ADT" title="ADT" /></td>
 </td>
+  
 </tr>
-
 
 <tr>
 <td colspan="8" align="center">
 <b>🚀 Technologies</b>
 </td>
-  
 </tr>
 
 <tr>
+  
 <table>
 <td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
 <td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
@@ -106,6 +106,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
 <td align="center"><img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" /></td>
 <td align="center"><img src="assets/logos/linux.svg" width="44" height="44" alt="Linux" title="Linux" /></td>
+  
 </tr>
 
 <tr>
@@ -117,6 +118,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 <td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" width="36" height="44" alt="PyTorch" title="PyTorch" /></td>
 </tr>
+
 </table>
 
 </div>
