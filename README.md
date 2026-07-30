@@ -68,7 +68,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <!-- Icons live in assets/logos/ — swap a file to change an icon.
      Table cells are used because GitHub renders README images as display:block. -->
-<table>
+
 
 <tr>
 <td colspan="8" align="center">
