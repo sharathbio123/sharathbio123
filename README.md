@@ -74,21 +74,20 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <div align="center">
 
-**Programming**
+<p><sub><b>PROGRAMMING</b></sub></p>
+<p><img src="https://skillicons.dev/icons?i=python,r,ts,html&theme=light" alt="Python, R, TypeScript, HTML" /></p>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,r,ts,html&theme=light" alt="Python, R, TypeScript, HTML" />
+<p><sub><b>BACKEND</b></sub></p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=light" alt="FastAPI, Node.js" /></p>
+<br/>
 
-**Backend**
+<p><sub><b>FRONTEND</b></sub></p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="React, Next.js, Tailwind CSS" /></p>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=light" alt="FastAPI, Node.js" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="React, Next.js, Tailwind CSS" />
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,linux&theme=light" alt="Git, GitHub, Docker, Conda, Linux" />
+<p><sub><b>DEVELOPMENT TOOLS</b></sub></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,linux&theme=light" alt="Git, GitHub, Docker, Conda, Linux" /></p>
 
 </div>
 
