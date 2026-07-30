@@ -37,28 +37,16 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 <tr>
 <td width="50%" valign="top">
 
-**Bioinformatics & Genomics**
-- Reproducible NGS / RNA-seq analysis pipelines
-- Differential expression & functional enrichment
-- Workflow automation and provenance tracking
-
-**Computational Chemistry**
+**AI & Computational Chemistry**
+- MLOps for bioactivity prediction
 - Molecular docking & virtual screening
 - Molecular dynamics simulations (GROMACS)
 - Cheminformatics and molecular descriptors
 
-</td>
-<td width="50%" valign="top">
-
-**AI for Life Sciences**
-- Deep learning for bioactivity prediction
-- Graph neural networks for molecular design
-- Retrieval-augmented assistants for scientific literature
-
-**Scientific Software Engineering**
-- Open-source, well-documented research tools
-- Scientific image analysis & data visualisation
-- Containerised, reproducible research environments
+**Bioinformatics & Genomics**
+- Reproducible NGS / RNA-seq analysis pipelines
+- Differential expression & functional enrichment
+- Workflow automation and provenance tracking
 
 </td>
 </tr>
