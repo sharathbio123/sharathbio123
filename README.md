@@ -79,7 +79,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <!-- Languages -->
 <tr>
-<td colspan="7" align="center"><b> </> Languages</b></td>
+<td colspan="7" align="center"><b> 👨‍💻 Languages</b></td>
 </tr>
 
 <tr>
