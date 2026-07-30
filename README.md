@@ -87,9 +87,8 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD" title="VMD" /></td>
 <td align="center"><img src="assets/logos/ADT.png" width="44" height="44" alt="ADT" title="ADT" /></td>
 </td>
-
-
 </tr>
+
 
 <tr>
 <td colspan="8" align="center">
