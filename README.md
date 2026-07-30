@@ -73,7 +73,8 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <tr>
 <td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
-
+<td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
+<td align="center"><img src="assets/logos/MDanalysis.png" width="44" height="44" alt="MDAnalysis" title="MDAnalysis" /></td>
 
 
 <td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
