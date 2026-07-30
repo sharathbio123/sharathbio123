@@ -70,9 +70,16 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
      Table cells are used because GitHub renders README images as display:block. -->
 <table>
 
+<!-- Scientific Computing -->
+<tr>
+<td colspan="7" align="center"><b>🧬 Scientific Computing</b></td>
+</tr>
+
+<tr>
+
 <!-- Languages -->
 <tr>
-<td colspan="7" align="center"><b>🐍 Languages</b></td>
+<td colspan="7" align="center"><b> </> Languages</b></td>
 </tr>
 
 <tr>
@@ -83,6 +90,11 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <td colspan="3"></td>
 </tr>
+
+
+
+
+
 
 
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
