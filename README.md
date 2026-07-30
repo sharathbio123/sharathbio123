@@ -69,22 +69,22 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
      Table cells are used because GitHub renders README images as display:block. -->
 <table>
 <tr>
-<td align="center"><img src="assets/logos/python.svg" height="44" alt="Python" title="Python" /></td>
-<td align="center"><img src="assets/logos/RStudio.svg" height="44" alt="R" title="R" /></td> 
-<td align="center"><img src="assets/logos/git.svg" height="44" alt="Git" title="Git" /></td>
-<td align="center"><img src="assets/logos/github.svg" height="44" alt="GitHub" title="GitHub" /></td>
-<td align="center"><img src="assets/logos/html.svg" height="44" alt="HTML" title="HTML" /></td>
-<td align="center"><img src="assets/logos/linux.svg" height="44" alt="Linux" title="Linux" /></td>
-<td align="center"><img src="assets/logos/scikit-learn.svg" height="44" alt="SKlearn" title="SKlearn" /></td>
+<td align="center"><img src="assets/logos/python.svg" width="44" height="44" alt="Python" title="Python" /></td>
+<td align="center"><img src="assets/logos/RStudio.svg" width="44" height="44" alt="R" title="R" /></td> 
+<td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
+<td align="center"><img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" /></td>
+<td align="center"><img src="assets/logos/html.svg" width="44" height="44" alt="HTML" title="HTML" /></td>
+<td align="center"><img src="assets/logos/linux.svg" width="44" height="44" alt="Linux" title="Linux" /></td>
+<td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
 </tr>
 <tr>
-<td align="center"><img src="assets/logos/node.svg" height="44" alt="Node.js" title="Node.js" /></td>
-<td align="center"><img src="assets/logos/typescript.svg" height="44" alt="TypeScript" title="TypeScript" /></td>
-<td align="center"><img src="assets/logos/react.svg" height="44" alt="React" title="React" /></td>
-<td align="center"><img src="assets/logos/FastAPI.svg" height="44" alt="FastAPI" title="FastAPI" /></td>
-<td align="center"><img src="assets/logos/docker.svg" height="44" alt="Docker" title="Docker" /></td>
-<td align="center"><img src="assets/logos/conda.svg" height="44" alt="Conda" title="Conda" /></td>
-<td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" height="44" alt="PyTorch" title="PyTorch" /></td>
+<td align="center"><img src="assets/logos/node.svg" width="44" height="44" alt="Node.js" title="Node.js" /></td>
+<td align="center"><img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /></td>
+<td align="center"><img src="assets/logos/react.svg" width="44" height="44" alt="React" title="React" /></td>
+<td align="center"><img src="assets/logos/FastAPI.svg" width="44" height="44" alt="FastAPI" title="FastAPI" /></td>
+<td align="center"><img src="assets/logos/docker.svg" width="44" height="44" alt="Docker" title="Docker" /></td>
+<td align="center"><img src="assets/logos/conda.svg" width="44" height="44" alt="Conda" title="Conda" /></td>
+<td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" width="36" height="44" alt="PyTorch" title="PyTorch" /></td>
 </tr>
 </table>
 
