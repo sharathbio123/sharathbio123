@@ -19,10 +19,9 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <div align="center">
 
-<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-0d9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/sharathbio123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-475569?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=sharathbio123&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
+<p>
+<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-0d9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/sharathbio123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-475569?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=sharathbio123&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
+</p>
 
 </div>
 
@@ -174,8 +173,7 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharathbio123&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0d9488&text_color=475569&bg_color=ffffff" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=sharathbio123&hide_border=true&ring=0ea5e9&fire=0d9488&currStreakLabel=0ea5e9&sideLabels=475569&dates=94a3b8&background=ffffff" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharathbio123&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0d9488&text_color=475569&bg_color=ffffff" alt="GitHub stats" />&nbsp;<img height="165" src="https://streak-stats.demolab.com?user=sharathbio123&hide_border=true&ring=0ea5e9&fire=0d9488&currStreakLabel=0ea5e9&sideLabels=475569&dates=94a3b8&background=ffffff" alt="GitHub streak" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathbio123&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=475569&bg_color=ffffff" alt="Top languages" />
 
@@ -224,9 +222,9 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 
 Open to collaborations in bioinformatics, computational chemistry, and AI-driven scientific software.
 
-<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-sharathbio123%40gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-sharathbio123.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/sharathbio123"><img src="https://img.shields.io/badge/GitHub-sharathbio123-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p>
+<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-sharathbio123%40gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-sharathbio123.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://github.com/sharathbio123"><img src="https://img.shields.io/badge/GitHub-sharathbio123-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <sub><i>Reproducible research · Open-source development · AI-powered scientific applications</i></sub>
 
