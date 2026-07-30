@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:1e293b&height=170&section=header&text=Sharath&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computational%20Science%20%C2%B7%20Bioinformatics%20%C2%B7%20Scientific%20Software&descAlignY=58&descSize=16" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:1e293b&height=170&section=header&text=Sharath&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computational%20Chemistry%20%C2%B7%20Bioinformatics%20%C2%B7%20TechBio%20&descAlignY=58&descSize=16" alt="banner" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://sharathbio123.github.io">
