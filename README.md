@@ -71,7 +71,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <table>
 
 <tr>
-<td colspan="8" align="center">
+<td colspan="4" align="center">
 <b>🧬 Scientific Tools</b>
 </td>
 </tr>
