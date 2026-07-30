@@ -71,6 +71,12 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <table>
 
 <tr>
+<td colspan="8" align="center">
+<b>🧪 Scientific Tools</b>
+</td>
+</tr>
+
+<tr>
 <td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
 <td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
