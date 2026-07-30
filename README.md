@@ -20,7 +20,7 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 <div align="center">
 
 <p>
-<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-0d9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/sharathbio123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-475569?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=sharathbio123&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
+<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-0d9488?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=sharathbio123&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile views" />
 </p>
 
 </div>
