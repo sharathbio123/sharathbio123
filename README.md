@@ -38,9 +38,9 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td width="50%" valign="top">
 
 **AI & Computational Chemistry**
-- MLOps for bioactivity prediction
 - Molecular docking & virtual screening
 - Molecular dynamics simulations & enhanced sampling methods
+- MLOps for bioactivity prediction & Explainable AI
 - Cheminformatics & molecular descriptors/fingerprints
 
 </td>
@@ -48,7 +48,8 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 **Bioinformatics & HPC**
 - Reproducible NGS/RNA-seq analysis pipelines
-- Differential expression & pathway/functional enrichment
+- Multiomics data analysis
+- Differential expression & pathway/functional enrichment analysis
 - Workflow automation & management
 
 </td>
