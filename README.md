@@ -66,57 +66,112 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <div align="center">
 
-<!-- Icons live in assets/logos/ — swap a file to change an icon.
-     Table cells are used because GitHub renders README images as display:block. -->
+### 🧬 Scientific Tools
 
-<tr>
-<td colspan="8" align="center">
-<b>🧬 Scientific Tools</b>
-</td>  
-</tr>
-
-<tr>
-  
 <table>
-<td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
-<td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
-<td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
-<td align="center"><img src="assets/logos/MDanalysis.png" width="44" height="44" alt="MDAnalysis" title="MDAnalysis" /></td>
-<td align="center"><img src="assets/logos/PyMOL_logo.svg" width="44" height="44" alt="PyMOL" title="PyMOL" /></td>
-<td align="center"><img src="assets/logos/ChimeraX.svg" width="44" height="44" alt="ChimeraX" title="ChimeraX" /></td>
-<td align="center"><img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD" title="VMD" /></td>
-<td align="center"><img src="assets/logos/ADT.png" width="44" height="44" alt="ADT" title="ADT" /></td>
-</td>
-  
-</tr>
-
 <tr>
-<td colspan="8" align="center">
-<b>🚀 Technologies</b>
+<td align="center">
+<img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit"/><br><sub>RDKit</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/Biopython.svg" width="44" height="44" alt="Biopython"/><br><sub>Biopython</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GROMACS"/><br><sub>GROMACS</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/MDanalysis.png" width="44" height="44" alt="MDAnalysis"/><br><sub>MDAnalysis</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/PyMOL_logo.svg" width="44" height="44" alt="PyMOL"/><br><sub>PyMOL</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/ChimeraX.svg" width="44" height="44" alt="ChimeraX"/><br><sub>ChimeraX</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD"/><br><sub>VMD</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/ADT.png" width="44" height="44" alt="AutoDock Tools"/><br><sub>ADT</sub>
 </td>
 </tr>
+</table>
 
-<tr>
-  
+<br>
+
+### 🚀 Technologies
+
 <table>
-<td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
-<td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
-<td align="center"><img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></td>
-<td align="center"><img src="assets/logos/html.svg" width="42" height="42" alt="HTML" title="HTML" /></td>
-<td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
-<td align="center"><img src="assets/logos/github.svg" width="44" height="44" alt="GitHub" title="GitHub" /></td>
-<td align="center"><img src="assets/logos/linux.svg" width="44" height="44" alt="Linux" title="Linux" /></td>
-  
+
+<tr>
+
+<td align="center">
+<img src="assets/logos/python.svg" width="42" height="42" alt="Python"/><br><sub>Python</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/RStudio.svg" width="42" height="42" alt="R"/><br><sub>R</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript"/><br><sub>TypeScript</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/html.svg" width="42" height="42" alt="HTML"/><br><sub>HTML</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/react.svg" width="42" height="42" alt="React"/><br><sub>React</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/FastAPI.svg" width="42" height="42" alt="FastAPI"/><br><sub>FastAPI</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/node.svg" width="42" height="42" alt="Node.js"/><br><sub>Node.js</sub>
+</td>
+
 </tr>
 
 <tr>
-<td align="center"><img src="assets/logos/node.svg" width="44" height="44" alt="Node.js" title="Node.js" /></td>
-<td align="center"><img src="assets/logos/react.svg" width="44" height="44" alt="React" title="React" /></td>
-<td align="center"><img src="assets/logos/FastAPI.svg" width="44" height="44" alt="FastAPI" title="FastAPI" /></td>
-<td align="center"><img src="assets/logos/docker.svg" width="44" height="44" alt="Docker" title="Docker" /></td>
-<td align="center"><img src="assets/logos/conda.svg" width="44" height="44" alt="Conda" title="Conda" /></td>
-<td align="center"><img src="assets/logos/scikit-learn.svg" width="44" height="44" alt="SKlearn" title="SKlearn" /></td>
-<td align="center"><img src="assets/logos/PyTorch_logo_icon.svg" width="36" height="44" alt="PyTorch" title="PyTorch" /></td>
+
+<td align="center">
+<img src="assets/logos/PyTorch_logo_icon.svg" width="38" height="42" alt="PyTorch"/><br><sub>PyTorch</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/scikit-learn.svg" width="42" height="42" alt="Scikit-learn"/><br><sub>Scikit-learn</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/docker.svg" width="42" height="42" alt="Docker"/><br><sub>Docker</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/conda.svg" width="42" height="42" alt="Conda"/><br><sub>Conda</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/git.svg" width="42" height="42" alt="Git"/><br><sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/github.svg" width="42" height="42" alt="GitHub"/><br><sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="assets/logos/linux.svg" width="42" height="42" alt="Linux"/><br><sub>Linux</sub>
+</td>
+
 </tr>
 
 </table>
