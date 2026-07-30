@@ -1,10 +1,17 @@
+<!-- ===================== HERO ===================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:0ea5e9,100:1e293b&height=170&section=header&text=Sharath&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computational%20Science%20%C2%B7%20Bioinformatics%20%C2%B7%20Scientific%20Software&descAlignY=58&descSize=16" alt="banner" width="100%" />
 
+<!-- Typing animation -->
+<a href="https://sharathbio123.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Bioinformatics+%7C+Computational+Chemistry;AI-driven+scientific+software;Reproducible+research+%26+open+source" alt="Typing animation" />
+</a>
+
 </div>
 
-## 👋 Hi, I'm Sharath
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="waving hand" /> Hi, I'm Sharath
 
 **Budding Computational Scientist** passionate about bioinformatics, computational chemistry, and AI-driven scientific software.
 
@@ -22,6 +29,8 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
+
+<!-- ===================== RESEARCH INTERESTS ===================== -->
 
 ## 🔬 Research Interests
 
@@ -60,6 +69,8 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
 
+<!-- ===================== TECHNOLOGIES ===================== -->
+
 ## 🧰 Technologies I'm Working With
 
 <div align="center">
@@ -85,6 +96,8 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
@@ -155,6 +168,8 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
 
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -171,6 +186,8 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
+
+<!-- ===================== LEARNING JOURNEY ===================== -->
 
 ## 🌱 Current Learning Journey
 
@@ -199,6 +216,8 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
 
+<!-- ===================== CONTACT ===================== -->
+
 ## 📬 Contact
 
 <div align="center">
@@ -210,5 +229,22 @@ Open to collaborations in bioinformatics, computational chemistry, and AI-driven
 <a href="https://github.com/sharathbio123"><img src="https://img.shields.io/badge/GitHub-sharathbio123-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <sub><i>Reproducible research · Open-source development · AI-powered scientific applications</i></sub>
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+> ### *“Science is a way of thinking much more than it is a body of knowledge.”*
+> **— Carl Sagan**
+
+<sub>Always learning · Always reproducible</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0ea5e9,100:0d9488&height=110&section=footer" alt="footer" width="100%" />
 
 </div>
