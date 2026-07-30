@@ -65,13 +65,28 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <div align="center">
 
-<!-- Icons live in assets/logos/ — swap a file to change an icon -->
-<p>
-<img src="assets/logos/python.svg" height="46" alt="Python" title="Python" />&nbsp;<img src="assets/logos/r.svg" height="46" alt="R" title="R" />&nbsp;<img src="assets/logos/typescript.svg" height="46" alt="TypeScript" title="TypeScript" />&nbsp;<img src="assets/logos/html.svg" height="46" alt="HTML" title="HTML" />&nbsp;<img src="assets/logos/fastapi.svg" height="46" alt="FastAPI" title="FastAPI" />&nbsp;<img src="assets/logos/node.svg" height="46" alt="Node.js" title="Node.js" />&nbsp;<img src="assets/logos/react.svg" height="46" alt="React" title="React" />
-</p>
-<p>
-<img src="assets/logos/nextjs.svg" height="46" alt="Next.js" title="Next.js" />&nbsp;<img src="assets/logos/tailwindcss.svg" height="46" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;<img src="assets/logos/git.svg" height="46" alt="Git" title="Git" />&nbsp;<img src="assets/logos/github.svg" height="46" alt="GitHub" title="GitHub" />&nbsp;<img src="assets/logos/docker.svg" height="46" alt="Docker" title="Docker" />&nbsp;<img src="assets/logos/conda.svg" height="46" alt="Conda" title="Conda" />&nbsp;<img src="assets/logos/linux.svg" height="46" alt="Linux" title="Linux" />
-</p>
+<!-- Icons live in assets/logos/ — swap a file to change an icon.
+     Table cells are used because GitHub renders README images as display:block. -->
+<table>
+<tr>
+<td align="center"><img src="assets/logos/python.svg" height="44" alt="Python" title="Python" /></td>
+<td align="center"><img src="assets/logos/r.svg" height="44" alt="R" title="R" /></td>
+<td align="center"><img src="assets/logos/typescript.svg" height="44" alt="TypeScript" title="TypeScript" /></td>
+<td align="center"><img src="assets/logos/html.svg" height="44" alt="HTML" title="HTML" /></td>
+<td align="center"><img src="assets/logos/fastapi.svg" height="44" alt="FastAPI" title="FastAPI" /></td>
+<td align="center"><img src="assets/logos/node.svg" height="44" alt="Node.js" title="Node.js" /></td>
+<td align="center"><img src="assets/logos/react.svg" height="44" alt="React" title="React" /></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/logos/nextjs.svg" height="44" alt="Next.js" title="Next.js" /></td>
+<td align="center"><img src="assets/logos/tailwindcss.svg" height="44" alt="Tailwind CSS" title="Tailwind CSS" /></td>
+<td align="center"><img src="assets/logos/git.svg" height="44" alt="Git" title="Git" /></td>
+<td align="center"><img src="assets/logos/github.svg" height="44" alt="GitHub" title="GitHub" /></td>
+<td align="center"><img src="assets/logos/docker.svg" height="44" alt="Docker" title="Docker" /></td>
+<td align="center"><img src="assets/logos/conda.svg" height="44" alt="Conda" title="Conda" /></td>
+<td align="center"><img src="assets/logos/linux.svg" height="44" alt="Linux" title="Linux" /></td>
+</tr>
+</table>
 
 </div>
 
