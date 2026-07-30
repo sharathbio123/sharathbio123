@@ -72,14 +72,23 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <!-- Scientific Computing -->
 <tr>
-<td colspan="7" align="center"><b>🧬 Scientific Computing</b></td>
+<td colspan="7" align="center"><b> Scientific Computing</b></td>
 </tr>
 
 <tr>
+<td align="center"><img src="assets/logos/RDKit.png" width="42" height="42" alt="RDKit" title="RDKit" /></td>
+
+
+
+<td colspan="2"></td>
+</tr>
+
+
+
 
 <!-- Languages -->
 <tr>
-<td colspan="7" align="center"><b> 👨‍💻 Languages</b></td>
+<td colspan="7" align="center"><b> Languages</b></td>
 </tr>
 
 <tr>
