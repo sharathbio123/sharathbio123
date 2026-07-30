@@ -43,6 +43,9 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 - Molecular dynamics simulations (GROMACS)
 - Cheminformatics and molecular descriptors
 
+</td>
+<td width="50%" valign="top">
+
 **Bioinformatics & Genomics**
 - Reproducible NGS / RNA-seq analysis pipelines
 - Differential expression & functional enrichment
@@ -62,91 +65,28 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <div align="center">
 
-<p><sub><b>PROGRAMMING</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=python,r,ts,html&theme=light" alt="Python, R, TypeScript, HTML" /></p>
-<br/>
-
-<p><sub><b>BACKEND</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=light" alt="FastAPI, Node.js" /></p>
-<br/>
-
-<p><sub><b>FRONTEND</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="React, Next.js, Tailwind CSS" /></p>
-<br/>
-
-<p><sub><b>DEVELOPMENT TOOLS</b></sub></p>
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,linux&theme=light" alt="Git, GitHub, Docker, Conda, Linux" /></p>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
-</div>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 🚀 Featured Projects
-
+<!-- Icons live in assets/logos/ — swap a file to change an icon.
+     Table cells are used because GitHub renders README images as display:block. -->
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧪 [MolDockPro](https://github.com/sharathbio123/MolDockPro)
-Molecular docking workspace for structure-based virtual screening, with streamlined ligand preparation and result analysis.
-
-`Python` · `Cheminformatics` · `Docking`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 [Bioactivity Prediction](https://github.com/sharathbio123/Bioactivity_prediction)
-Deep learning tool that predicts compound bioactivity from molecular representations for early-stage drug discovery.
-
-`Python` · `Deep Learning` · `QSAR`
-
-</td>
+<td align="center"><img src="assets/logos/python.svg" height="44" alt="Python" title="Python" /></td>
+<td align="center"><img src="assets/logos/r.svg" height="44" alt="R" title="R" /></td>
+<td align="center"><img src="assets/logos/typescript.svg" height="44" alt="TypeScript" title="TypeScript" /></td>
+<td align="center"><img src="assets/logos/html.svg" height="44" alt="HTML" title="HTML" /></td>
+<td align="center"><img src="assets/logos/fastapi.svg" height="44" alt="FastAPI" title="FastAPI" /></td>
+<td align="center"><img src="assets/logos/node.svg" height="44" alt="Node.js" title="Node.js" /></td>
+<td align="center"><img src="assets/logos/react.svg" height="44" alt="React" title="React" /></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 [ExoRAG-Bot](https://github.com/sharathbio123/ExoRAG-Bot)
-Fully offline assistant for chatting with your own scientific PDFs, built with LangChain, Chroma DB, and Ollama.
-
-`LangChain` · `Chroma DB` · `Ollama`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 [RNA-seq Pipeline](https://github.com/sharathbio123/RNA_seq_pipeline)
-Reproducible transcriptomics workflow covering QC, alignment, quantification, and differential expression.
-
-`Python` · `NGS` · `Reproducibility`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ [GNN for Drug Discovery](https://github.com/sharathbio123/GNN_for_DD)
-Graph neural network experiments for molecular property prediction and generative molecular design.
-
-`PyTorch` · `Graph ML` · `Molecular Design`
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ [MolDiscovery](https://github.com/sharathbio123/MolDiscovery)
-Web interface bringing drug-discovery workflows to the browser with a modern, responsive front end.
-
-`TypeScript` · `React` · `Web App`
-
-</td>
+<td align="center"><img src="assets/logos/nextjs.svg" height="44" alt="Next.js" title="Next.js" /></td>
+<td align="center"><img src="assets/logos/tailwindcss.svg" height="44" alt="Tailwind CSS" title="Tailwind CSS" /></td>
+<td align="center"><img src="assets/logos/git.svg" height="44" alt="Git" title="Git" /></td>
+<td align="center"><img src="assets/logos/github.svg" height="44" alt="GitHub" title="GitHub" /></td>
+<td align="center"><img src="assets/logos/docker.svg" height="44" alt="Docker" title="Docker" /></td>
+<td align="center"><img src="assets/logos/conda.svg" height="44" alt="Conda" title="Conda" /></td>
+<td align="center"><img src="assets/logos/linux.svg" height="44" alt="Linux" title="Linux" /></td>
 </tr>
 </table>
-
-<div align="center">
-
-[![More projects](https://img.shields.io/badge/Explore%20all%20repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharathbio123?tab=repositories)
 
 </div>
 
@@ -172,58 +112,11 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
 </div>
 
-<!-- ===================== LEARNING JOURNEY ===================== -->
-
-## 🌱 Current Learning Journey
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Now**
-- Full-stack development with **Next.js** + **FastAPI**
-- Type-safe scientific dashboards in **TypeScript**
-- Containerised, reproducible pipelines with **Docker** & **Conda**
-
-</td>
-<td width="50%" valign="top">
-
-**Next**
-- Production-ready ML workflows (MLOps) for scientific models
-- Cloud deployment of computational biology services
-- Contributing to open-source scientific software
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
-</div>
-
-<!-- ===================== CONTACT ===================== -->
-
-## 📬 Contact
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
 Open to collaborations in bioinformatics, computational chemistry, and AI-driven scientific software.
-
-<p>
-<a href="mailto:sharathbio123@gmail.com"><img src="https://img.shields.io/badge/Email-sharathbio123%40gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://sharathbio123.github.io"><img src="https://img.shields.io/badge/Portfolio-sharathbio123.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://github.com/sharathbio123"><img src="https://img.shields.io/badge/GitHub-sharathbio123-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<sub><i>Reproducible research · Open-source development · AI-powered scientific applications</i></sub>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
 
 > ### *“Science is a way of thinking much more than it is a body of knowledge.”*
 > **— Carl Sagan**
