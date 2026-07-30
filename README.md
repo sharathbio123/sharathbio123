@@ -172,9 +172,9 @@ Web interface bringing drug-discovery workflows to the browser with a modern, re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharathbio123&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0d9488&text_color=475569&bg_color=ffffff" alt="GitHub stats" />&nbsp;<img height="165" src="https://streak-stats.demolab.com?user=sharathbio123&hide_border=true&ring=0ea5e9&fire=0d9488&currStreakLabel=0ea5e9&sideLabels=475569&dates=94a3b8&background=ffffff" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharathbio123&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0d9488&text_color=475569&bg_color=ffffff" alt="GitHub stats" />&nbsp;<img height="165" src="https://streak-stats.demolab.com?user=sharathbio123&hide_border=true&ring=0ea5e9&fire=0d9488&currStreakLabel=0ea5e9&sideLabels=475569&dates=94a3b8&background=ffffff" alt="GitHub streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathbio123&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=475569&bg_color=ffffff" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharathbio123&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=475569&bg_color=ffffff" alt="Top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathbio123&hide_border=true&area=true&color=0ea5e9&line=0d9488&point=1e293b&title_color=0ea5e9&bg_color=ffffff" alt="Contribution graph" width="100%" />
 
