@@ -66,11 +66,8 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <div align="center">
 
-<table>
-
 <!-- Icons live in assets/logos/ — swap a file to change an icon.
      Table cells are used because GitHub renders README images as display:block. -->
-
 
 <tr>
 <td colspan="8" align="center">
@@ -80,6 +77,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 </tr>
 
 <tr>
+<table>
 <td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
 <td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
