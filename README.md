@@ -61,7 +61,7 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🧰 Technologies I'm Working With
+## 🧰 I'm Working With
 
 <div align="center">
 
