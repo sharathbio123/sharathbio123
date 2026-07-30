@@ -62,7 +62,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-## 🧰 Tools & Technologies
+## 🤖 Tools & Technologies
 
 <div align="center">
 
