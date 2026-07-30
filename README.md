@@ -76,10 +76,10 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 </tr>
 
 <tr>
-<td align="center"><img src="assets/logos/python.svg" width="44" height="44" alt="Python" title="Python" /></td>
-<td align="center"><img src="assets/logos/RStudio.svg" width="44" height="44" alt="R" title="R" /></td> 
-<td align="center"><img src="assets/logos/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /></td>
-<td align="center"><img src="assets/logos/html.svg" width="44" height="44" alt="HTML" title="HTML" /></td>
+<td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
+<td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
+<td align="center"><img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></td>
+<td align="center"><img src="assets/logos/html.svg" width="42" height="42" alt="HTML" title="HTML" /></td>
 
 <td colspan="3"></td>
 </tr>
