@@ -15,7 +15,7 @@
 
 **Budding Computational Scientist** passionate about bioinformatics, computational chemistry, and AI-driven scientific software.
 
-I enjoy building reproducible, user-friendly tools that bridge life sciences and modern software engineering. I'm continuously learning full-stack development while creating applications for computational biology, molecular modelling, drug discovery, and scientific image analysis.
+I enjoy building reproducible, user-friendly tools that bridge life sciences and modern software engineering. I'm continuously learning full-stack development while creating applications for computational biology/Bioinformatics, molecular modelling, and drug discovery.
 
 <div align="center">
 
@@ -92,37 +92,4 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
-</div>
-
-<!-- ===================== GITHUB STATISTICS ===================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sharathbio123&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=0d9488&text_color=475569&bg_color=ffffff" alt="GitHub stats" />&nbsp;<img height="165" src="https://streak-stats.demolab.com?user=sharathbio123&hide_border=true&ring=0ea5e9&fire=0d9488&currStreakLabel=0ea5e9&sideLabels=475569&dates=94a3b8&background=ffffff" alt="GitHub streak" />
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharathbio123&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=475569&bg_color=ffffff" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathbio123&hide_border=true&area=true&color=0ea5e9&line=0d9488&point=1e293b&title_color=0ea5e9&bg_color=ffffff" alt="Contribution graph" width="100%" />
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="separator" />
-</div>
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-Open to collaborations in bioinformatics, computational chemistry, and AI-driven scientific software.
-
-> ### *“Science is a way of thinking much more than it is a body of knowledge.”*
-> **— Carl Sagan**
-
-<sub>Always learning · Always reproducible</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:0ea5e9,100:0d9488&height=110&section=footer" alt="footer" width="100%" />
-
 </div>
