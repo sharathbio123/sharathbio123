@@ -77,7 +77,7 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 
 <tr>
 <td align="center"><img src="assets/logos/RDKit.png" width="42" height="42" alt="RDKit" title="RDKit" /></td>
-
+<td align="center"><img src="assets/logos/Biopython.svg" width="42" height="42" alt="BioPython" title="BioPython" /></td>
 
 
 <td colspan="2"></td>
