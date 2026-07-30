@@ -46,9 +46,9 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 </td>
 <td width="50%" valign="top">
 
-**Bioinformatics & Genomics**
+**Bioinformatics & HPC**
 - Reproducible NGS / RNA-seq analysis pipelines
-- Differential expression & functional enrichment
+- Differential expression & pathway/functional enrichment
 - Workflow automation and provenance tracking
 
 </td>
