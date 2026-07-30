@@ -13,7 +13,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" alt="waving hand" /> Hi, I'm Sharath
 
-**Budding Computational Scientist** passionate about bioinformatics, computational chemistry, and AI-driven scientific software.
+**Budding Computational Scientist** passionate about Bioinformatics, Computational Chemistry, and AI-driven scientific software.
 
 I enjoy building reproducible, user-friendly tools that bridge life sciences and modern software engineering. I'm continuously learning full-stack development while creating applications for computational biology/Bioinformatics, molecular modelling, and drug discovery.
 
