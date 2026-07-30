@@ -70,40 +70,16 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
      Table cells are used because GitHub renders README images as display:block. -->
 <table>
 
-<!-- Scientific Computing -->
-<tr>
-<td colspan="7" align="center"><b> Scientific Computing</b></td>
-</tr>
-
 <tr>
 <td align="center"><img src="assets/logos/RDKit.png" width="44" height="44" alt="RDKit" title="RDKit" /></td>
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
 
 
-<td colspan="2"></td>
-</tr>
 
-
-
-
-<!-- Languages -->
-<tr>
-<td colspan="7" align="center"><b> Languages</b></td>
-</tr>
-
-<tr>
 <td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
 <td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
 <td align="center"><img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></td>
 <td align="center"><img src="assets/logos/html.svg" width="42" height="42" alt="HTML" title="HTML" /></td>
-
-<td colspan="3"></td>
-</tr>
-
-
-
-
-
 
 
 <td align="center"><img src="assets/logos/git.svg" width="44" height="44" alt="Git" title="Git" /></td>
