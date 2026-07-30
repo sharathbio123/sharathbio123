@@ -41,13 +41,13 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 - MLOps for bioactivity prediction
 - Molecular docking & virtual screening
 - Molecular dynamics simulations & enhanced sampling methods
-- Cheminformatics & molecular descriptors
+- Cheminformatics & molecular descriptors/fingerprints
 
 </td>
 <td width="50%" valign="top">
 
 **Bioinformatics & HPC**
-- Reproducible NGS / RNA-seq analysis pipelines
+- Reproducible NGS/RNA-seq analysis pipelines
 - Differential expression & pathway/functional enrichment
 - Workflow automation & management
 
