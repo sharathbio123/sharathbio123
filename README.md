@@ -40,7 +40,7 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 **AI & Computational Chemistry**
 - MLOps for bioactivity prediction
 - Molecular docking & virtual screening
-- Molecular dynamics simulations (GROMACS)
+- Molecular dynamics simulations & enhanced sampling methods
 - Cheminformatics and molecular descriptors
 
 </td>
@@ -49,7 +49,7 @@ I enjoy building reproducible, user-friendly tools that bridge life sciences and
 **Bioinformatics & HPC**
 - Reproducible NGS / RNA-seq analysis pipelines
 - Differential expression & pathway/functional enrichment
-- Workflow automation and provenance tracking
+- Workflow automation and management
 
 </td>
 </tr>
