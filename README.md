@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 <a href="https://sharathbio123.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Bioinformatics+%7C+Computational+Chemistry;AI-driven+scientific+software;Reproducible+research+%26+open+source" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Bioinformatics+%7C+Computational+Chemistry;Building+scientific+software;Reproducible+research+%26+open+source" alt="Typing animation" />
 </a>
 
 </div>
