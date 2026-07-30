@@ -82,13 +82,12 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td align="center"><img src="assets/logos/Biopython.svg" width="44" height="44" alt="BioPython" title="BioPython" /></td>
 <td align="center"><img src="assets/logos/gmx_logo_blue.svg" width="44" height="44" alt="GMX" title="GMX" /></td>
 <td align="center"><img src="assets/logos/MDanalysis.png" width="44" height="44" alt="MDAnalysis" title="MDAnalysis" /></td>
-
-<tr>
 <td align="center"><img src="assets/logos/PyMOL_logo.svg" width="44" height="44" alt="PyMOL" title="PyMOL" /></td>
 <td align="center"><img src="assets/logos/ChimeraX.svg" width="44" height="44" alt="ChimeraX" title="ChimeraX" /></td>
 <td align="center"><img src="assets/logos/vmd2.png" width="44" height="44" alt="VMD" title="VMD" /></td>
 <td align="center"><img src="assets/logos/ADT.png" width="44" height="44" alt="ADT" title="ADT" /></td>
 </td>
+
 
 </tr>
 
@@ -96,9 +95,11 @@ I build reproducible, user-friendly tools that bridge life sciences and modern s
 <td colspan="8" align="center">
 <b>🚀 Technologies</b>
 </td>
+  
 </tr>
 
 <tr>
+<table>
 <td align="center"><img src="assets/logos/python.svg" width="42" height="42" alt="Python" title="Python" /></td>
 <td align="center"><img src="assets/logos/RStudio.svg" width="42" height="42" alt="R" title="R" /></td> 
 <td align="center"><img src="assets/logos/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /></td>
